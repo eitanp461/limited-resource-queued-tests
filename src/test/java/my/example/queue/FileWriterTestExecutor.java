@@ -1,7 +1,5 @@
 package my.example.queue;
 
-import my.example.runner.TestExecutor;
-
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;

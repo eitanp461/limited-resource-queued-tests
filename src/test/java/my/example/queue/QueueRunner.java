@@ -1,7 +1,6 @@
-package my.example.runner;
+package my.example.queue;
 
 import my.example.annotation.Queued;
-import my.example.queue.ResourceAwareTestQueue;
 import org.junit.runner.notification.RunNotifier;
 import org.junit.runners.BlockJUnit4ClassRunner;
 import org.junit.runners.model.InitializationError;

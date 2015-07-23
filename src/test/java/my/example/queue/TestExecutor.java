@@ -1,4 +1,4 @@
-package my.example.runner;
+package my.example.queue;
 
 /**
  * Created by peere on 7/22/2015.

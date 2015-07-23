@@ -1,6 +1,6 @@
 package my.example.test;
 
-import my.example.runner.QueueRunner;
+import my.example.queue.QueueRunner;
 import org.junit.runner.RunWith;
 
 /**
